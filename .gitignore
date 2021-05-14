@@ -1,0 +1,9 @@
+# ignore All .log files
+*.log
+
+# ignore All files in any directory named temp
+temp/
+
+# w3schools
+
+w3schools/
